@@ -1,0 +1,17 @@
+Package                          Version
+-------------------------------- ------------
+fastparquet			 2023.7.0
+glob2                            0.7
+hyperopt                         0.2.5
+hyperas                          0.4.1
+imbalanced-learn                 0.10.1
+joblib                           1.3.2
+keras                            2.12.0
+matplotlib                       3.7.1
+numpy                            1.23.5
+pandas                           1.5.3
+scikit-learn                     1.2.2
+seaborn                          0.12.2
+tensorflow                       2.12.0
+torch                            2.0.1+cu118
+xgboost                          1.7.6
